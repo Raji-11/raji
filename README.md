@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on a Multi-Layer Fraud Detection System for secure digital transactions using machine learning and behavioral analysis.<br><br>👯 I’m looking to collaborate on AI/ML, Data Science, Cybersecurity, and Open Source projects.<br><br>🤝 I’m looking for help with advanced machine learning, system design, and scalable fraud detection techniques.<br><br>🌱 I’m currently learning Python, Data Structures & Algorithms, Machine Learning, Cloud Computing, and Software Development.<br><br>💬 Ask me about Python, Java, DSA, DBMS, Operating Systems, Computer Networks, and AI fundamentals.<br><br>⚡ Fun fact: I secured good CGPA and enjoy solving coding problems on LeetCode, GeeksforGeeks, and other coding platforms.<br>
 
+]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Raji B) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bondadaraji10@gmail.com) 
